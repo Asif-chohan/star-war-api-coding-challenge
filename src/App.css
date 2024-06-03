@@ -1,0 +1,19 @@
+.ant-timeline-item-label {
+    padding-left: 15px;
+    font-size: 16px;
+}
+
+.ant-timeline-item-content {
+    padding-right: 15px;
+    font-size: 16px;
+
+}
+
+.ant-timeline-item-head-blue {
+    width: 15px !important;
+    height: 15px !important;
+}
+
+.ant-timeline-item-tail {
+    margin-left: 3px !important;
+}
